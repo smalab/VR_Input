@@ -1,0 +1,6 @@
+-gram kaden
+-input mic -demo
+-charconv "sjis" "utf-8"
+
+# 音響モデル: GMM-HMM
+-h model/phone_m/jnas-tri-3k16-gid.binhmm
