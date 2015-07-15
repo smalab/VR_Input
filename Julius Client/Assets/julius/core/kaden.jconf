@@ -26,14 +26,14 @@
 ## 単語辞書ファイル
 ##
 ##-v model/lang_m/bccwj.60k.htkdic
--v model/lang_m/commnd.htkdic
+-v kaden.dict -C mic.jconf
 
 ##
 ## 音響HMM定義ファイル
 ##
 # asciiフォーマット，もしくは "mkbinhmmで" 作成したバイナリ形式
 # （自動判別される）
-#-h model/phone_m/hmmdefs_ptm_gid.binhmm
+#-h model/phone_m/jnas-tri-3k16-gid.binhmm
 
 ## triphoneモデルの場合，さらに
 ##     論理的に出現しうる triphone -> 定義されている triphone
