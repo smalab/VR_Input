@@ -30,7 +30,7 @@ public class Kaden_Client : MonoBehaviour {
 	public			string			file				= @".\Assets\julius\core";
 	public 			string 			IPAddress 			= "localhost";
 	public 			int 			port				= 10500;
-	public 			string			kaden/*(command)*/	= "-C tmp.jconf -C am-gmm.jconf -input mic -48 -module -charconv utf-8 sjis";
+	public 			string			kaden /*(command)*/	= "-C mic.jconf -gram kaden -input mic -module -charconv utf-8 sjis";
 	public			float			keep_time			= 0;
 	public			float			timer 				= 0;
 		

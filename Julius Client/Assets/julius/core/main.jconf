@@ -33,7 +33,7 @@
 ##
 # asciiフォーマット，もしくは "mkbinhmmで" 作成したバイナリ形式
 # （自動判別される）
-#-h model/phone_m/hmmdefs_ptm_gid.binhmm
+#-h model/phone_m/jnas-tri-3k16-gid.binhmm
 
 ## triphoneモデルの場合，さらに
 ##     論理的に出現しうる triphone -> 定義されている triphone
