@@ -14,19 +14,19 @@ J「How are you doing？」
 小「Really good.
     I'm OK.
     I'm sleepy.
-    I'm tired.」
+    I'm tired. →　Really?Please relax.」
 
 J「Are you a japanese?」
-小「japanese.」
+小「japanese. or Americanなど」
 
 J「Where were you born?」
-小「I was born in Osaka(47都道府県).」
+小「I was born in Osaka(47都道府県). or Americaなど(外国人だった場合)」
 
 J「Are you Mr. or Ms?」
-小「Mr or Ms.」
+小「Mr or Ms.」→juliusは女の子設定　女の子だった場合のみ「Oh,it's the same.」
 
 J「What do you do in your free time?」
-小「I like ○○ing ○○.」
+小「I like ○○ing ○○. or Nothing.」
 
 J「Thank you for the answer to my question.」
 小「You're welcome.」
