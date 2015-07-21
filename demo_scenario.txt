@@ -4,24 +4,29 @@
 Julius＝J
 小学生＝小
 
-J「Hello」
-小「Hello」
+J「Hello.」
+小「Hello.」
+
+J「I'm julius.Nice to meet you.」
+小「Nice to meet you,too.」
 
 J「How are you doing？」
-小「Really good
-    I'm OK
-    I'm sleepy
-    I'm tired
-    」
+小「Really good.
+    I'm OK.
+    I'm sleepy.
+    I'm tired.」
+
+J「Are you a japanese?」
+小「japanese.」
 
 J「Where were you born?」
-小「I was born in Osaka(47都道府県)」
+小「I was born in Osaka(47都道府県).」
 
 J「Are you Mr. or Ms?」
-小「Mr or Ms」
+小「Mr or Ms.」
 
-J「」
-小「」
+J「What do you do in your free time?」
+小「I like ○○ing ○○.」
 
-J「」
-小「」
+J「Thank you for the answer to my question.」
+小「You're welcome.」
