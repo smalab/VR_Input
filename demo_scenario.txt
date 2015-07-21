@@ -1,0 +1,27 @@
+小学生に対して行う認識率テストのデモアプリの作成
+・会話風であること
+
+Julius＝J
+小学生＝小
+
+J「Hello」
+小「Hello」
+
+J「How are you doing？」
+小「Really good
+    I'm OK
+    I'm sleepy
+    I'm tired
+    」
+
+J「Where were you born?」
+小「I was born in Osaka(47都道府県)」
+
+J「Are you Mr. or Ms?」
+小「Mr or Ms」
+
+J「」
+小「」
+
+J「」
+小「」
