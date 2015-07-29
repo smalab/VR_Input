@@ -216,7 +216,9 @@ public class Julius_Client : MonoBehaviour {
 				if(tmp != words){
 					words  = tmp;
 					Result = tmp;
-				}else{
+
+				}
+				else{
 					Result = string.Empty;
 				}
 
