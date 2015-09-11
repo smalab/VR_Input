@@ -1,0 +1,4 @@
+音作成に使用したサイト、ソフト
+・VOICEROID+月読アイ
+・SofTalk
+・AITalk()
