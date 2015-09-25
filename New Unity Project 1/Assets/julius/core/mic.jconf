@@ -1,0 +1,7 @@
+-gram fruit
+-input mic -demo
+-charconv "sjis" "utf-8"
+-C hmm_ptm.jconf
+
+# 音響モデル: GMM-HMM
+-h model/phone_m/jnas-tri-3k16-gid.binhmm
