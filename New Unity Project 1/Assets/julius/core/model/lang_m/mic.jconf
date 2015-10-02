@@ -1,4 +1,0 @@
--gram kaden
--C ../julius/hmm_ptm.jconf
--input mic -demo
--charconv "sjis" "utf-8"
