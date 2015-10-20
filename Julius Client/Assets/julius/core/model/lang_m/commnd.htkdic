@@ -19,6 +19,7 @@ M	[M]	e m u
 M	[M]	e N m u
 N	[N]	e n u
 O	[O]	o:
+O	[O]	o u
 P	[P]	p i:
 Q	[Q]	ky u:
 R	[R]	a: r u
@@ -31,6 +32,7 @@ W	[W]	d a b u ry u:
 W	[W]	d a by u ry u:
 W	[W]	d a b u r u:
 X	[X]	e q k u s u
+X	[X]	e k u s u
 Y	[Y]	w a i
 Y	[Y]	w a: i
 Z	[Z]	z i:
