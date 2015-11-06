@@ -24,6 +24,7 @@ O	[O]	o u
 P	[P]	p i:
 Q	[Q]	ky u:
 R	[R]	a: r u
+R	[R]	a:
 S	[S]	e s u
 T	[T]	t i:
 U	[U]	y u:
@@ -35,7 +36,6 @@ W	[W]	d a b u r u:
 X	[X]	e q k u s u
 X	[X]	e k u s u
 Y	[Y]	w a i
-Y	[Y]	w a: i
 Z	[Z]	z i:
 Z	[Z]	z u i:
 Z	[Z]	z e q t o
