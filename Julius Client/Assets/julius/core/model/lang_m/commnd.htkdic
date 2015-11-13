@@ -1,41 +1,18 @@
 <s>	[]	silB
 </s>	[。]	silE
-A	[A]	e:
-A	[A]	e i
-B	[B]	b i:
-C	[C]	s i:
-C	[C]	s u w i:
-D	[D]	d i:
-D	[D]	d e:
-E	[E]	i:
-F	[F]	e f u
-G	[G]	z i:
-H	[H]	e i ch i
-I	[I]	a i
-J	[J]	j e
-K	[K]	k e:
-K	[K]	k e i
-L	[L]	e r u
-M	[M]	e m u
-M	[M]	e N m u
-N	[N]	e n u
-O	[O]	o:
-O	[O]	o u
-P	[P]	p i:
-Q	[Q]	ky u:
-R	[R]	a: r u
-R	[R]	a:
-S	[S]	e s u
-T	[T]	t i:
-U	[U]	y u:
-V	[V	]	b i:
-V	[V]	b u i
-W	[W]	d a b u ry u:
-W	[W]	d a by u ry u:
-W	[W]	d a b u r u:
-X	[X]	e q k u s u
-X	[X]	e k u s u
-Y	[Y]	w a i
-Z	[Z]	z i:
-Z	[Z]	z u i:
-Z	[Z]	z e q t o
+牛	[cow]	k a u
+馬	[horse]	h o: s u
+狼	[wolf]	u r u f u
+麒麟	[giraffe]	j u r a f u
+熊	[bear]	b e a:
+猿	[monkey]	m a N k i:
+虎	[tiger]	t a i g a:
+ライオン	[lion]	r a i a N
+猫	[cat]	ky a q t o
+ハンバーグ	[hamburger]	h a N b a g a:
+カレー	[curry rice]	k a r i: r a i s u
+寿司	[sushi]	s u: sh i:
+チョコ	[chocolate]	ch o: k o r e i t o
+ミルク	[milk]	m i r u k u
+水	[water]	w o t a:
+コーラ	[coke]	k o: k u
