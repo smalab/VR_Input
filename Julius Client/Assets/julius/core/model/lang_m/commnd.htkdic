@@ -1,28 +1,25 @@
 <s>	[]	silB
 </s>	[。]	silE
 牛	[うし＝Cow]	k a u
-馬	[うま＝Horse]	h o: s u
-馬	[うま＝Horse]	h o u s u
-狼	[おおかみ＝Wolf]	u r u f u
-狼	[おおかみ＝Wolf]	u: f u
-麒麟	[きりん＝Giraffe]	j u r a f u
-麒麟	[きりん＝Giraffe]	z i r a f u
-熊	[くま＝Bear]	b e a:
-熊	[くま＝Bear]	b e y a:
-猿	[さる＝Monkey]	m a N k i:
-猿	[さる＝Monkey]	m o N k i:
-虎	[とら＝Tiger]	t a i g a:
-虎	[とら＝Tiger]	t a i g a
-ライオン	[らいおん＝Lion]	r a i a N
-ライオン	[らいおん＝Lion]	r a i o N
-猫	[ねこ＝Cat]	ky a q t o
-ハンバーグ	[ハンバーガー＝Hamburger]	h a N b a g a:
-サーモン	[さけ＝Salmon]	s a: m o N
-ミート	[にく＝Meat]	m i: t o
-キャンディ	[あめ＝Candy]	ky a N d i:
-魚	[さかな＝Fish]	f i q sh u
-魚	[さかな＝Fish]	h i q sh u
+馬	[horse]	h o: s u
+狼	[おおかみ＝Wolves]	u: z u
+麒麟	[きりん＝Giraffes]	j u r a f u s u
+麒麟	[きりん＝Giraffes]	z i r a f u s u
+熊	[くま＝Bears]	b e a: z u
+猿	[さる＝Monkeys]	m a N k i: z u
+猿	[さる＝Monkeys]	m o N k i: z u
+虎	[とら＝Tigers]	t a i g a: s u
+ライオン	[らいおん＝Lions]	r a i a N z u
+ライオン	[らいおん＝Lions]	r a i o N z u
+猫	[ねこ＝Cats]	ky a q t u
+ハンバーグ	[ハンバーグ＝Hamburg]	h a N b a: g u
+サーモン	[さけ＝Salmons]	s a: m o N z u
+サーモン	[さけ＝Salmons]	s a m a N z u
+ミート	[にく＝Meats]	m i: t u
+キャンディ	[あめ＝Candies]	ky a N d i: z u
+魚	[さかな＝Fishes]	f i q sh i: z u
+魚	[さかな＝Fishes]	h i q sh e: z u
 水	[みず＝Water]	w o: t a:
 水	[みず＝Water]	o: t a:
-ヨーグルト	[ヨーグルト＝Yogurt]	y o: g a: t o
-ヨーグルト	[ヨーグルト＝Yogurt]	y o: g u r u t o
+ヨーグルト	[ヨーグルト＝Yogurts]	y o: g a: t u
+ヨーグルト	[ヨーグルト＝Yogurts]	y o: g u r u t u
