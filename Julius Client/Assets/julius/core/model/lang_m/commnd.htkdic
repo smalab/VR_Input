@@ -1,19 +1,19 @@
 <s>	[]	silB
 </s>	[。]	silE
-熊	[くま＝Bear]	b e a
-猿	[さる＝Monkey]	m a N k i
-虎	[とら＝Tiger]	t a i g a
-ライオン	[らいおん＝Lion]	r a i a N
-ミート	[にく＝Meat]	m i i t u
-キャンディ	[あめ＝Candy]	ky a N d i
-魚	[さかな＝Fish]	f i q sh i
-魚	[さかな＝Fish]	h i q sh i
-水	[みず＝Water]	w o t a
-ヨーグルト	[ヨーグルト＝Yogurts]	y o: g a: t u
-牛	[うし＝Cow]	k a u
-馬	[horse]	h o: s u
-狼	[おおかみ＝Wolf]	u r u f u
-麒麟	[きりん＝Giraffe]	j u r a f u
-猫	[ねこ＝Cat]	ky a q t o
-ハンバーグ	[ハンバーガー＝Hamburger]	h a N b a: g a
-サーモン	[さけ＝Salmon]	s a m a N z u
+<動物>	@-1.33251	熊	[くま＝Bear]	b e a
+<動物>	@-0.52287	猿	[さる＝Monkey]	m a N k i
+<動物>	@-0.52287	虎	[とら＝Tiger]	t a i g a
+<動物>	@-0.52287	ライオン	[らいおん＝Lion]	r a i a N
+<飲食物>	@ミート	[にく＝Meat]	m i i t u
+<飲食物>	@キャンディ	[あめ＝Candy]	ky a N d i
+<飲食物>	@魚	[さかな＝Fish]	f i q sh i
+<飲食物>	@魚	[さかな＝Fish]	h i q sh i
+<飲食物>	@水	[みず＝Water]	w o t a
+<飲食物>	@ヨーグルト	[ヨーグルト＝Yogurts]	y o: g a: t u
+<動物>	@牛	[うし＝Cow]	k a u
+<動物>	@-2	馬	[horse]	h o: s u
+<動物>	@狼	[おおかみ＝Wolf]	u r u f u
+<動物>	@麒麟	[きりん＝Giraffe]	j u r a f u
+<動物>	@猫	[ねこ＝Cat]	ky a q t o
+<飲食物>	@ハンバーグ	[ハンバーガー＝Hamburger]	h a N b a: g a
+<飲食物>	@サーモン	[さけ＝Salmon]	s a m a N z u
