@@ -1,18 +1,18 @@
 <s>	[]	silB
 </s>	[。]	silE
-<動物>	@-0.32697	熊	[くま＝Bear]	b e a
-<動物>	@-0.32697	猿	[さる＝Monkey]	m a N k i
-<動物>	@-0.32697	虎	[とら＝Tiger]	t a i g a
-<動物>	@-0.32697	ライオン	[らいおん＝Lion]	r a i a N
-<飲食物>	@-0.32697	ミート	[にく＝Meat]	m i i t u
-<飲食物>	@-0.32697	キャンディ	[あめ＝Candy]	ky a N d i
-<飲食物>	@-0.32697	魚	[さかな＝Fish]	f i q sh u
-<飲食物>	@-1.22914	水	[みず＝Water]	w o t a
-<飲食物>	@-1.22914	ヨーグルト	[ヨーグルト＝Yogurts]	y o: g a: t u
-<動物>	@-1.22914	牛	[うし＝Cow]	k a u
-<動物>	@-1.22914	馬	[horse]	h o: s u
-<動物>	@-1.22914	[おおかみ＝Wolf]	u r u f u
-<動物>	@-1.22914	[きりん＝Giraffe]	j u r a f u
-<動物>	@-1.22914	[ねこ＝Cat]	ky a q t o
-<飲食物>@-1.22914	ハンバーグ	[ハンバーガー＝Hamburger]	h a N b a: g a
-<飲食物>@-1.22914	サーモン	[さけ＝Salmon]	s a m a N z u
+<名詞>	@-0.32697	熊	[くま＝Bear]	b e a
+<名詞>	@-0.32697	猿	[さる＝Monkey]	m a N k i
+<名詞>	@-0.32697	虎	[とら＝Tiger]	t a i g a
+<名詞>	@-0.32697	ライオン	[らいおん＝Lion]	r a i a N
+<名詞>	@-0.32697	ミート	[にく＝Meat]	m i i t u
+<名詞>	@-0.32697	キャンディ	[あめ＝Candy]	ky a N d i
+<名詞>	@-0.32697	魚	[さかな＝Fish]	f i q sh u
+<名詞>	@-1.22914	水	[みず＝Water]	w o t a
+<名詞>	@-1.22914	ヨーグルト	[ヨーグルト＝Yogurts]	y o: g a: t u
+<名詞>	@-1.22914	牛	[うし＝Cow]	k a u
+<名詞>	@-1.22914	馬	[horse]	h o: s u
+<名詞>	@-1.22914	[おおかみ＝Wolf]	u r u f u
+<名詞>	@-1.22914	[きりん＝Giraffe]	j u r a f u
+<名詞>	@-1.22914	[ねこ＝Cat]	ky a q t o
+<名詞>	@-1.22914	ハンバーグ	[ハンバーガー＝Hamburger]	h a N b a: g a
+<名詞>	@-1.22914	サーモン	[さけ＝Salmon]	s a m a N z u
